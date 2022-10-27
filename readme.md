@@ -1,4 +1,4 @@
-### Hi 👋, I'm Muhammet Orazmyradov
+### Hi 👋, I'm Jared Christopher Naidoo
 
 ### Let's connect!
 
