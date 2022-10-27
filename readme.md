@@ -2,7 +2,7 @@
 
 ### Let's connect!
 
-<a href="https://twitter.com/Jared1402" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="test" height="30" width="40" /></a>
+<a href="https://twitter.com/Jared1402jn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="test" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jared-christopher-naidoo-7137b0128" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="test" height="30" width="40" /></a>
 <a href="https://instagram.com/jaredc.n" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="test" height="30" width="40" /></a>
 
